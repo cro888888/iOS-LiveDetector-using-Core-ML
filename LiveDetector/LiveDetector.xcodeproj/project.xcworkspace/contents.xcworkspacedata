@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:LiveDetector.xcodeproj">
+      location = "group:/Users/cro/Developer/LiveDetector/LiveDetector/captain_cnn.mlmodel">
+   </FileRef>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>
